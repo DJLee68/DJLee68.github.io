@@ -6,9 +6,9 @@ order: 10
 ---
 
 ## Self-Introduction
-<img src="https://user-images.githubusercontent.com/41410971/81505856-64130180-932d-11ea-85ba-b9ac1ac181a8.jpg"  width="300" height="300">
+![dj](../assets/img/dj.jpg)
 
-_Computer History Museum in Mountain View, California_
+_Joshua Tree National Part, California_
 
 - Name : Dong Jae Lee(DJ Lee)
 - Affiliation: Chung-Ang University(Took 6 Semester, Taking a break from university Now) / Uniquify(AI Intern)
